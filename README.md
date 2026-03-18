@@ -1,4 +1,4 @@
-# Projeto Crypto Wallet - Ruby on Rails
+# Projeto Crypto Wallet
 
 Projeto do curso de **Ruby on Rails** do professor *Jackson Pires* na Udemy.
 
